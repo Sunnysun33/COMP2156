@@ -2,11 +2,9 @@ name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
-<<<<<<< HEAD:.github/workflows/comp2156-actio.yml
 name: comp2156 lab
 =======
 name: github-actions-demo.yml
->>>>>>> bb468fbf5bd243c5885498afe7d0fdd3b2a1e5c5:.github/workflows/github-actions-demo.yml
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 # Controls when the workflow will run
 on:
