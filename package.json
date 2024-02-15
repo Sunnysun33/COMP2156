@@ -12,7 +12,6 @@
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
   },
-
   "keywords": [],
   "author": "Joyce Jiang",
   "license": "ISC",
